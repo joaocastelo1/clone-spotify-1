@@ -30,16 +30,14 @@ Este projeto é uma cópia do popular serviço de streaming de música, Spotify.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/clone-spotify.git
-
-<br>
+   git clone https://github.com/joaocastelo1/clone-spotify-1
 
 <div id="user-content-toc">
   <ul align="center">
     <h2 style="display: inline-block">Imagens:</h2>
   </ul>
 </div>
-<br>
+
 <div align="center"> 
   <img src="https://i.postimg.cc/4nRgmqLz/Screenshot-1.png">
 </div>
