@@ -31,3 +31,19 @@ Este projeto é uma cópia do popular serviço de streaming de música, Spotify.
 
    ```bash
    git clone https://github.com/seuusuario/clone-spotify.git
+
+<br>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block">Imagens:</h2>
+  </ul>
+</div>
+
+<div align="center"> 
+  <img src="./img/cafe-1.png" width="250px">
+  <img src="./img/cafe-2.png" width="250px">
+  <img src="./img/cafe-3.png" width="250px">
+  <img src="./img/cafe-4.png" width="250px">
+  <img src="./img/cafe-5.png" width="250px">
+</div>
